@@ -1,0 +1,36 @@
+#wrap{
+width:80%;
+    margin:20px auto;
+}
+.game-block{
+border:1px solid black;
+    width:500px;
+    height:500px;
+    margin:0 auto;
+}
+.block{
+width:10%;
+    height:10%;
+    background:grey;
+    float:left;
+
+}
+.hero{
+background:url(https://cdn3.iconfinder.com/data/icons/map-markers-1/512/UFo_landing-512.png);
+    background-color:grey; 
+    background-size: 50px 50px;
+}
+.eat{
+background: url(https://cdn2.iconfinder.com/data/icons/windows-8-metro-style/128/car.png);
+    background-color:grey;
+     background-size: 50px 50px;
+}
+.kit{
+    margin: 0 auto;
+    
+}
+.enemy{
+    background:url(cow.png);
+    background-color:grey; 
+    background-size: 50px 50px;
+}
